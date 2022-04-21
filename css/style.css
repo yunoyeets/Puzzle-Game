@@ -1,0 +1,74 @@
+﻿body {
+    /* font-family: 'Nunito Sans', sans-serif; */
+    font-family: 'Poppins', sans-serif; 
+    margin:0;
+    background-color: #575A5E;
+}
+h2{
+    font-weight:300px;
+    text-align:center;
+    font-family: 'Nunito Sans', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+}
+h3{
+    font-weight:200px;
+    margin:3px 0px;
+    text-align:center;
+}
+
+#playMore{
+    background: none;
+    border: 2px solid;
+    font: inherit;
+    line-height: 1;
+    margin: 0.5em;
+    padding: 6em;
+    font-weight: 100px;
+    font-family: 'Poppins', sans-serif; 
+    cursor:pointer;
+}
+
+#playMore:hover{
+    background-color: #fff;
+    border-color: transparent;
+    color: black;
+    transition: 0.2s;
+}
+
+#btnRule{
+    background: none;
+    border: 2px solid;
+    font: inherit;
+    line-height: 1;
+    margin: 0.5em;
+    padding: 6em;
+    font-family: 'Poppins', sans-serif; 
+    font-weight: 100px;
+    cursor: pointer;
+}
+
+#newPhoto{
+    background: none;
+    border: 2px solid;
+    font: inherit;
+    line-height: 1;
+    margin: 0.5em;
+    padding: 6em;
+    font-weight: 100px;
+    font-family: 'Poppins', sans-serif; 
+    cursor:pointer;
+}
+
+#btnRule:hover{
+    background-color: #fff;
+    border-color: transparent;
+    color: black;
+    transition: 0.2s;
+}
+
+#newPhoto:hover{
+    background-color: #fff;
+    border-color: transparent;
+    color: black;
+    transition: 0.2s;
+}
